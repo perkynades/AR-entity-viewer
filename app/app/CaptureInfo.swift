@@ -151,34 +151,3 @@ struct CaptureInfo: Identifiable {
 
     private static let photoStringPrefix = "IMG_"
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
