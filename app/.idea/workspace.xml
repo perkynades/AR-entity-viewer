@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fec6f8a8-4425-4b8b-8da5-b4e6b1afcc7e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/CameraViewModel.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/app.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ContentView.swift" beforeDir="false" afterPath="$PROJECT_DIR$/app/ContentView.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Experience.rcproject/Library/ProjectLibrary/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Experience.rcproject/Library/ProjectLibrary/Version.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Experience.rcproject/SceneThumbnails/F9610871-0955-494F-A5C3-51D1A281BAB3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Experience.rcproject/SceneThumbnails/F9610871-0955-494F-A5C3-51D1A281BAB3.thumbnails/square" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Experience.rcproject/SceneThumbnails/F9610871-0955-494F-A5C3-51D1A281BAB3.thumbnails/wide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Experience.rcproject/com.apple.RCFoundation.Project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Preview Content/Preview Assets.xcassets/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/Preview Content/Preview Assets.xcassets/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appTests/appTests.swift" beforeDir="false" afterPath="$PROJECT_DIR$/appTests/appTests.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appUITests/appUITests.swift" beforeDir="false" afterPath="$PROJECT_DIR$/appUITests/appUITests.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appUITests/appUITestsLaunchTests.swift" beforeDir="false" afterPath="$PROJECT_DIR$/appUITests/appUITestsLaunchTests.swift" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_A83C1270-0D94-488E-B989-D6DA9F54BDB8" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="AppCode" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="2.3" />
+  </component>
+  <component name="ProjectId" id="2GnuFm4B4D0fbsq9NUlGYOmRDwo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "OBJC.PRESERVED_TARGET_SELECTION": "app",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cidr.known.project.marker": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="app" type="AppleRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="app" TARGET_NAME="app" CONFIG_NAME="Debug" SCHEME_NAME="app" IS_LOCATION_SIMULATION_ALLOWED="true" APPLICATION_LANGUAGE="IDELaunchSchemeLanguageUseSystemLanguage" APPLICATION_REGION="" RUN_TARGET_PROJECT_NAME="app" RUN_TARGET_NAME="app" MAKE_ACTIVE="TRUE" SHOULD_DEBUG_EXTENSIONS="false">
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <embedded_app_extension_list />
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fec6f8a8-4425-4b8b-8da5-b4e6b1afcc7e" name="Changes" comment="" />
+      <created>1667036569114</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667036569114</updated>
+      <workItem from="1667036571218" duration="684000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
