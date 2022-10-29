@@ -9,4 +9,18 @@ import SwiftUI
 
 import os
 
+class CameraViewModel: ObservableObject {
+    var session: AVCaptureSession
 
+    enum CaptureMode {
+        case manual
+        case automatic(everySecs: Double)
+    }
+
+    @Published var lastCapture: Capture? = nil
+    @Published var isCameraAvailable: Bool = false
+    @Published var isHighQualityMode: Bool = false
+    @Published var isDepthDataEnabled: Bool = false
+    @Published var isMotionDataEnabled: Bool = false
+    @Published var captureFolderState: CaptureFolderState?
+}

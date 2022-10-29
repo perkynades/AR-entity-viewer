@@ -2,22 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fec6f8a8-4425-4b8b-8da5-b4e6b1afcc7e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/CameraViewModel.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Capture.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/CaptureInfo.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/app.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/AppDelegate.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ContentView.swift" beforeDir="false" afterPath="$PROJECT_DIR$/app/ContentView.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Experience.rcproject/Library/ProjectLibrary/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Experience.rcproject/Library/ProjectLibrary/Version.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Experience.rcproject/SceneThumbnails/F9610871-0955-494F-A5C3-51D1A281BAB3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Experience.rcproject/SceneThumbnails/F9610871-0955-494F-A5C3-51D1A281BAB3.thumbnails/square" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Experience.rcproject/SceneThumbnails/F9610871-0955-494F-A5C3-51D1A281BAB3.thumbnails/wide" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Experience.rcproject/com.apple.RCFoundation.Project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Preview Content/Preview Assets.xcassets/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/Preview Content/Preview Assets.xcassets/Contents.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appTests/appTests.swift" beforeDir="false" afterPath="$PROJECT_DIR$/appTests/appTests.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appUITests/appUITests.swift" beforeDir="false" afterPath="$PROJECT_DIR$/appUITests/appUITests.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appUITests/appUITestsLaunchTests.swift" beforeDir="false" afterPath="$PROJECT_DIR$/appUITests/appUITestsLaunchTests.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/CameraViewModel.swift" beforeDir="false" afterPath="$PROJECT_DIR$/app/CameraViewModel.swift" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667036569114</updated>
-      <workItem from="1667036571218" duration="684000" />
+      <workItem from="1667036571218" duration="5443000" />
     </task>
     <servers />
   </component>
