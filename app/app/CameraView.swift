@@ -23,9 +23,57 @@ struct CameraView: View {
                     VStack {
                         Spacer()
                         CameraPreviewView(session: model.session)
+                                .frame(
+                                        width: geometryReader.size.width,
+                                        height: geometryReader.size.height * aspectRatio,
+                                        alignment: .center
+                                )
+                                .clipShape(RoundedRectangle(cornerRadius: previewCornerRadius))
+                                .onAppear { model.startSession() }
+                                .onDisappear { model.pauseSession() }
+                                .overlay(Image("ObjectReticle")
+                                        .resizable()
+                                        .scaledToFit()
+                                        .padding(.all)
+                                )
+                        Spacer()
+                    }
+                    VStack {
+                        ScanToolbarView(model: model, showInfo: $showInfo).padding(.horizontal)
+                        if showInfo {
+                            InfoPanelView(model: model)
+                                    .padding(.horizontal)
+                                    .padding(.top)
+                        }
                     }
                 }
             }
         }
     }
 }
+
+struct CaptureButtonPanelView: View {
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
