@@ -13,10 +13,12 @@
 		2F8FC0B15B54F02A6AA9EBA0 /* CaptureInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F8FCEBD3C83EFA3296F6101 /* CaptureInfo.swift */; };
 		2F8FC31B4D324BEDED909577 /* TriggerEveyTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F8FC1A6BB7DB1605C796E10 /* TriggerEveyTimer.swift */; };
 		2F8FC33A638641AD7C9176DB /* CaptureFolderState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F8FCAEA8209C1CDDF6D73BF /* CaptureFolderState.swift */; };
+		2F8FC43EBEA70E2958CF9DA7 /* CameraPreviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F8FC9ABEB61B6BA008E0603 /* CameraPreviewView.swift */; };
 		2F8FC4A636E9A0CDB70A5359 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F8FCB31829730ECD0C9A141 /* ContentView.swift */; };
 		2F8FC70999856FE6D547C32B /* CameraViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F8FC16364BB55CEACB721BC /* CameraViewModel.swift */; };
 		2F8FC722290884BB132DD9D3 /* appApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F8FCB5B788CA6294A6EC8D1 /* appApp.swift */; };
 		2F8FCAA97C6A308BCDCA3C76 /* Capture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F8FCAD40FAD8F5FA00A6853 /* Capture.swift */; };
+		2F8FCB0370111C13AB941852 /* CameraView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F8FC9748170F142E4563D50 /* CameraView.swift */; };
 		2F8FCD8038353562A1046370 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F8FC6E5E25B9BD19DAEEBCF /* Assets.xcassets */; };
 		2F8FCD99787D675F90236A32 /* appUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F8FCDB735A0310678823879 /* appUITests.swift */; };
 		2F8FCE9C3D30A7FA324ABFE9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F8FCAE4889879ED512BCC93 /* Preview Assets.xcassets */; };
@@ -46,7 +48,9 @@
 		2F8FC6E5E25B9BD19DAEEBCF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2F8FC7F89D95AD074A678586 /* appTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = appTests.swift; sourceTree = "<group>"; };
 		2F8FC89CA643DDA934CF09FD /* appUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = appUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		2F8FC9748170F142E4563D50 /* CameraView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CameraView.swift; sourceTree = "<group>"; };
 		2F8FC988F2AED69942557641 /* app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = app.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2F8FC9ABEB61B6BA008E0603 /* CameraPreviewView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CameraPreviewView.swift; sourceTree = "<group>"; };
 		2F8FCAD40FAD8F5FA00A6853 /* Capture.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Capture.swift; sourceTree = "<group>"; };
 		2F8FCAE4889879ED512BCC93 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2F8FCAEA8209C1CDDF6D73BF /* CaptureFolderState.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CaptureFolderState.swift; sourceTree = "<group>"; };
@@ -96,6 +100,8 @@
 				2F8FCAEA8209C1CDDF6D73BF /* CaptureFolderState.swift */,
 				2F8FC1A6BB7DB1605C796E10 /* TriggerEveyTimer.swift */,
 				2F8FC56ABC52BFD55A97F29A /* PhotoCaptureDelegate.swift */,
+				2F8FC9748170F142E4563D50 /* CameraView.swift */,
+				2F8FC9ABEB61B6BA008E0603 /* CameraPreviewView.swift */,
 			);
 			path = app;
 			sourceTree = "<group>";
@@ -273,6 +279,8 @@
 				2F8FC33A638641AD7C9176DB /* CaptureFolderState.swift in Sources */,
 				2F8FC31B4D324BEDED909577 /* TriggerEveyTimer.swift in Sources */,
 				2F8FC0056C123096DA93C11C /* PhotoCaptureDelegate.swift in Sources */,
+				2F8FCB0370111C13AB941852 /* CameraView.swift in Sources */,
+				2F8FC43EBEA70E2958CF9DA7 /* CameraPreviewView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
