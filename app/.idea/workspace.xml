@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fec6f8a8-4425-4b8b-8da5-b4e6b1afcc7e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/CaptureFolderState.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/TriggerEveyTimer.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/PhotoCaptureDelegate.swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/app.xcodeproj/project.pbxproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/CameraViewModel.swift" beforeDir="false" afterPath="$PROJECT_DIR$/app/CameraViewModel.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/CaptureInfo.swift" beforeDir="false" afterPath="$PROJECT_DIR$/app/CaptureInfo.swift" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667036569114</updated>
-      <workItem from="1667036571218" duration="9318000" />
+      <workItem from="1667036571218" duration="13578000" />
     </task>
     <servers />
   </component>
